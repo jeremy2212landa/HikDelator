@@ -1,10 +1,10 @@
 #Herramienta desarrollada para el proyecto HikDelator, 
-#investigacion realizada por Denny Rodriguez {LinkeIn : https://www.linkedin.com/in/alxnovax} y 
-#jonathan maderos {LinkeIn : https://www.linkedin.com/in/jonathan-maderos-04478920}
+#investigacion realizada por Denny Rodriguez {LinkedIn : https://www.linkedin.com/in/alxnovax} y 
+#jonathan maderos {LinkedIn : https://www.linkedin.com/in/jonathan-maderos-04478920}
 #presentada en el dia 06/09/2022 en la DragonJar Security Conference, Manizales 2022
 
-# Author: Jeremy Landa {LinkeIn : https://www.linkedin.com/in/jeremy-david-landa-6187b7176}
-# Author: Diego Aristiguieta {LinkeIn : https://www.linkedin.com/in/diego-aristiguieta-60236b163}
+# Author: Jeremy Landa {LinkedIn : https://www.linkedin.com/in/jeremy-david-landa-6187b7176}
+# Author: Diego Aristiguieta {LinkedIn : https://www.linkedin.com/in/diego-aristiguieta-60236b163}
 
 #Si quieres Colaborar con el proyecto no olvides mencionar a los autores.
 
